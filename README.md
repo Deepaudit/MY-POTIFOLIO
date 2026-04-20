@@ -37,10 +37,7 @@ Atualmente dedico-me a laboratórios diários de exploração web e à criação
 ---
 
 ### 📫 Contacto & Networking
-- **LinkedIn:** [Insira o link aqui]
-- **Portfólio:** [Link para o GitHub Pages que criámos]
-- **Certificados:** [Link para pasta ou site de certificados]
-
+- **LinkedIn:**  https://www.linkedin.com/in/pablocyber/
 ---
 
 > *"A segurança não é um produto, mas um processo de aprendizagem contínuo."*
